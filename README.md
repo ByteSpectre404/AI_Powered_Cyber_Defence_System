@@ -2,6 +2,8 @@
 
 An automated AI-assisted cyber defense workflow built with **n8n**. The system receives security alerts, enriches them with external threat-intelligence sources, uses Google Gemini to classify the incident, determines whether automated response or analyst approval is required, generates an incident report, and logs the result.
 
+![Workflow Overview](workflow.png)
+
 ## Architecture
 
 ```text
